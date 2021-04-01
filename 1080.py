@@ -1,5 +1,3 @@
-#hyunjunl: hihihihihi!!!!!
-
 #1931 ctrl+ k +c / ctrl + k + u
 #import sys
 #def greedy(m):
